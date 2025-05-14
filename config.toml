@@ -9,5 +9,6 @@ cli-version = "dev"       # 'latest', 'dev', or a version number. default: "late
 # you can use rvmm-config-gen to generate a config
 
 [Instagram]
+arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
