@@ -10,5 +10,6 @@ cli-version = "dev"       # 'latest', 'dev', or a version number. default: "late
 
 [Instagram]
 arch = "arm64-v8a"
+version = "379.1.0.43.80"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
